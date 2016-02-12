@@ -1,0 +1,14 @@
+{
+    "name": "snetty/laravel-calculated-columns",
+    "description": "Create calculated columns for laravel models",
+    "require": {
+        "laravel/laravel": "5.2"
+    },
+    "authors": [
+        {
+            "name": "Simon Stevens",
+            "email": "simon@mousepilot.co.uk"
+        }
+    ],
+    "minimum-stability": "dev"
+}
